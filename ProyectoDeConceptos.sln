@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DelegateActionFuncPredicate", "DelegateActionFuncPredicate", "{AE64C24B-58E1-4C21-8C4E-9A7FB79B01A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateActionFuncPredicate1", "DelegateActionFuncPredicate1\DelegateActionFuncPredicate1.csproj", "{3F512970-8C09-469B-A80A-16F8E62DD1A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F512970-8C09-469B-A80A-16F8E62DD1A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F512970-8C09-469B-A80A-16F8E62DD1A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F512970-8C09-469B-A80A-16F8E62DD1A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F512970-8C09-469B-A80A-16F8E62DD1A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3F512970-8C09-469B-A80A-16F8E62DD1A4} = {AE64C24B-58E1-4C21-8C4E-9A7FB79B01A1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D80F392-A404-4232-B73A-C428D01C09B8}
+	EndGlobalSection
+EndGlobal
